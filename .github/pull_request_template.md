@@ -3,7 +3,7 @@ Current version: **X.Y.Z**
 
 New version: **X.Y.Z**
 
-This is a MAJOR/MINOR/PATCH release because...
+This is a SemVer *MAJOR/MINOR/PATCH* release because...
 
 # Summary of changes
 **TODO**: Please summarise the changes.
