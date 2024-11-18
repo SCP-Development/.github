@@ -32,14 +32,21 @@ SInfoE
 
 <!-- Insert an image, or summarise the testing results  -->
 
-## Checklist
+## Process Checklist
 
 Please confirm:
 
-- [ ] Code follows the guidelines
 - [ ] Testing evidence provided
 - [ ] Tests have been written/ updated
 - [ ] Documentation has been written/ updated
+
+## Side Effects
+
+Please confirm:
+
+- [ ] New dependencies
+- [ ] API Changes
+- [ ] Deployment Changes
 
 ## Additional Info
 
